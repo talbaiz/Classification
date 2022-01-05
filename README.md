@@ -26,7 +26,7 @@ We obtained the dataset from Kaggle and it contains 24 features and 129,880 Airl
 | Satisfaction                    | Airline satisfaction level(Satisfaction, neutral or dissatisfaction)            |
 | Ease of Online booking	        | Satisfaction level of online booking                                            |
 
-# Tools:
+## Tools:
 - Pandas and Numpy for data manipulation.
 - Sklearn for classification.
 - Matplotlib and Seaborn for plotting.

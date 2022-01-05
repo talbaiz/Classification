@@ -2,7 +2,7 @@
 
 ## Airline Passenger Satisfaction
 
-<img src="https://github.com/talbaiz/Classification/blob/main/Flight.png" width="600" height="500" />
+<img src="https://github.com/talbaiz/Classification/blob/main/Flight.png" width="800" height="500" />
 
 # Introduction:
 This Project contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger.
